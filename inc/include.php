@@ -1,6 +1,6 @@
 <?php 
-$server_name = "My server name";					//Name of your server
-$admin = "Admins name";									//Your name / IGN (just changes color in console for the admin name)
+$server_name = "CrossedHearts";					//Name of your server
+$admin = "TheSurvivalDev";									//Your name / IGN (just changes color in console for the admin name)
 $server_dir = "server\\";							//Directory of your Minecraft server files. 
 $server_log = "logs\\latest.log";					//location of current server log inside server dir
 date_default_timezone_set('Europe/Amsterdam');		//Servers timezone
